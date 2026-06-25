@@ -1,0 +1,20 @@
+//#region node_modules/.nitro/vite/services/ssr/assets/_tanstack-start-manifest_v-D_WzKhvf.js
+var tsrStartManifest = () => ({ routes: {
+	__root__: {
+		filePath: "C:/Users/VAIBHAV/OneDrive/Desktop/PORTFOLIO-WEB-3D-FIXED/PORTFOLIO-WEB-3D-main/src/routes/__root.tsx",
+		children: ["/"],
+		preloads: ["/assets/index-DnbqRMhH.js"],
+		scripts: [{ attrs: {
+			type: "module",
+			async: !0,
+			src: "/assets/index-DnbqRMhH.js"
+		} }]
+	},
+	"/": {
+		filePath: "C:/Users/VAIBHAV/OneDrive/Desktop/PORTFOLIO-WEB-3D-FIXED/PORTFOLIO-WEB-3D-main/src/routes/index.tsx",
+		children: void 0,
+		preloads: ["/assets/routes-hLfyB_lB.js"]
+	}
+} });
+//#endregion
+export { tsrStartManifest };
